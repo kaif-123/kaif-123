@@ -70,7 +70,7 @@
 
 ---
 
-### [AI Image Detector](https://github.com/kaif-123/ai-image-detector) — Real vs AI-Generated
+### [AI Image Detector](https://github.com/kaif-123/ai-image-detector-backend) — Real vs AI-Generated
 > CNN-based classifier to detect AI-generated images with a clean web interface
 
 - **Stack:** PyTorch · FastAPI · Framer · Railway
@@ -79,7 +79,7 @@
 
 ---
 
-### [Mira](https://github.com/kaif-123/mira-chatbot) — Gen Z AI Chatbot
+### [Mira](https://github.com/kaif-123/ai-mira-chatbot) — Gen Z AI Chatbot
 > Conversational AI persona powered by Groq API (LLaMA 3.3 70B)
 
 - **Stack:** Groq API · llama-3.3-70b-versatile · JavaScript
