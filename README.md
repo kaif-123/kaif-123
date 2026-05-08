@@ -122,13 +122,6 @@
 
 ## 🎮 Catch Me Off Guard
 
-```
-While (!placed) {
-    leetcode.grind();
-    build.projects();
-    coffee++;
-}
-```
 
 ---
 
